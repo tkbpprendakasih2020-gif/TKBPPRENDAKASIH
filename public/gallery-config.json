@@ -1,0 +1,108 @@
+{
+  "foto": {
+    "1.jpg": {
+      "title": "Foto 1",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "2.jpg": {
+      "title": "Foto 2",
+       "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "3.jpg": {
+      "title": "Foto 3",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "4.jpg": {
+      "title": "Foto 4",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "5.jpg": {
+      "title": "Foto 5",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "6.jpg": {
+      "title": "Foto 6",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "7.jpg": {
+      "title": "Foto 7",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "8.jpg": {
+      "title": "Foto 8",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "9.jpg": {
+      "title": "Foto 9",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "10.jpg": {
+      "title": "Foto 10",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "11.jpg": {
+      "title": "Foto 11",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "12.jpg": {
+      "title": "Foto 12",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "13.jpg": {
+      "title": "Foto 13",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "14.jpg": {
+      "title": "Foto 14",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "15.jpg": {
+      "title": "Foto 15",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "16.jpg": {
+      "title": "Foto 16",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "17.jpg": {
+      "title": "Foto 17",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    },
+    "18.jpg": {
+      "title": "Foto 18",
+      "category": "Foto",
+      "description": "Dokumentasi kegiatan siswa dan guru."
+    }
+  },
+  "video": {
+    "video-1": {
+      "title": "Kegiatan TK BPP RENDA KASIH",
+      "category": "Video",
+      "description": "Video dokumentasi kegiatan TK BPP RENDA KASIH.",
+      "url": "https://youtu.be/CNkbIJE4IdE"
+    }
+  },
+  "murid": {
+    "almeera.jpg": {
+      "title": "Almeera - Karya Huruf",
+      "description": "Murid TK BPP RENDA KASIH membuat karya huruf dari kulit pisang."
+    }
+  }
+}

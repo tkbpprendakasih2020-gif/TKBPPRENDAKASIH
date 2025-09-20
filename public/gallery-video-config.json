@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Kulinan barudak",
+        "youtubeId": "wjdfNDFBWsM",
+        "thumbnail": "/images/upacara-thumb.jpg"
+    },
+    {
+        "title": "Mengenal tanaman hidup",
+        "youtubeId": "CNkbIJE4IdE",
+        "thumbnail": "/images/upacara-thumb.jpg"
+    },
+    {
+        "title": "Balonku Ada Lima",
+        "youtubeId": "7pIfptT09Pk",
+        "thumbnail": "/images/senam-thumb.jpg"
+    },
+    {
+        "title": "Video Lokal 1",
+        "file": "/video/1.mp4",
+        "thumbnail": "/images/video-thumb.jpg"
+    },
+    {
+        "title": "hulaahoop",
+        "youtubeId": "ZLYMzQqAAEc",
+        "thumbnail": "/images/video-thumb.jpg"
+    },
+    {
+        "title": "Video Lokal 1",
+        "file": "/video/2.mp4",
+        "thumbnail": "/images/video-thumb.jpg"
+    },
+    {
+        "title": "Video Lokal 1",
+        "file": "/video/3.mp4",
+        "thumbnail": "/images/video-thumb.jpg"
+    },
+    {
+        "title": "Video Lokal 1",
+        "file": "/video/4.mp4",
+        "thumbnail": "/images/video-thumb.jpg"
+    }
+]
